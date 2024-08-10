@@ -15,7 +15,6 @@ Vue.config.productionTip = false
 new Vue({
   data: {
     cartCount: 0,
-    favoriteCount: 0
   },
   router,
   render: h => h(App),
